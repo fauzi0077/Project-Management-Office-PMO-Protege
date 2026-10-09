@@ -129,10 +129,10 @@ Assisted in preparing and maintaining project deliverables timelines to support 
 
 - Updated project delivery timelines using **Microsoft Excel and PowerPoint**.
 - Monitored planned deliverables and project activities across multiple enterprise systems:
-  - **CSCRM**
-  - **FICA**
-  - **Business Intelligence (BI)**
-  - **Data Management (DM)**
+  - **Marketing, Feedback Mgmt & Cust. Loyalty (CSCRM)**
+  - **Financial & Reporting Management (FICA)**
+  - **Regulated Billing & Invoicing (BI)**
+  - **Device Management (DM)**
 - Organized project activities into structured timelines for management discussions.
 - Updated presentation materials to communicate delivery progress and upcoming activities.
 - Supported monitoring of milestones, outstanding deliverables, and project schedules.
