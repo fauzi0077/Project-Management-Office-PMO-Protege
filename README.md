@@ -230,7 +230,6 @@ Participated in enterprise-level discussions relating to business process alignm
 | Cisco Webex | Virtual meetings, stakeholder communication, solution reviews |
 | Functional Incident & Problem Ticket Reports | Incident monitoring, problem tracking, SLA reporting |
 | Change Request (CR) Trackers | Change status monitoring, documentation, project follow-up |
-| Customer Data Hub (CDH) | Exposure to enterprise customer data project coordination |
 | BCRM | Functional incident tracking and enterprise application operations exposure |
 
 ---
